@@ -1,8 +1,9 @@
 # DS6600_lab1
 1c. I chose the Apache License 2.0. The requirements for the license were that it must allow people to: 
-    - (1) use the code in my repository for both commercial and noncommercial use
-    - (2) include full rights to distribute and modify the code
-    - (3) not allow anyone to modify or distribute the code if they have a more restrictive license
+
+ (1) use the code in my repository for both commercial and noncommercial use
+ (2) include full rights to distribute and modify the code
+ (3) not allow anyone to modify or distribute the code if they have a more restrictive license
 
 I initially was going to select the MIT License, as that was the one used in class. It allows for both commercial and noncommercial use. It also allows for the distribution and modfication of the code. However, it doesn't prevent someone from modifying the code and distributing it under a more restrictive license. The Apache License 2.0 also meets criteria 1 & 2, but also includes the requirement that derivative works must preserve the same license or a license with a similar level of freedom/restrictiveness. 
 
